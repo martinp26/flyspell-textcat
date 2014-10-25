@@ -6,7 +6,7 @@
 ;;
 ;; Author:  Martin Pohlack <mp26@os.inf.tu-dresden.de>
 ;; URL:     http://os.inf.tu-dresden.de/~mp26/download/flyspell-textcat.el
-;; Version: 0.1
+;; Version: 0.2
 ;;
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -29,7 +29,7 @@
 ;;
 ;;    [untested]
 ;;
-;;  Manueally load the library after ispell-multi and just activate
+;;  Manually load the library after ispell-multi and just activate
 ;;  the minor mode via M-x 'flyspell-textcat-mode'.
 
 ;;; Commentary:
@@ -45,7 +45,7 @@
 ;;
 ;;  This mode relies on ispell-multi, which basically caches *spell
 ;;  processes for each language seen, instead of restarting new ones
-;;  all the time a languae change is seen.
+;;  all the time a language change is seen.
 ;;
 ;;  [Untested with xemacs]
 
@@ -66,6 +66,7 @@
 
 ;;; Changes
 ;;
+;; 0.2 Minor spelling corrections in the documentation :-)
 ;; 0.1 Initial public release
 
 (require 'ispell-multi)
