@@ -2,10 +2,10 @@
 ;;                        libtextcat machine categorization for each
 ;;                        paragraph
 ;;
-;; Copyright (C) 2008 Martin Pohlack
+;; Copyright (C) 2008,2014 Martin Pohlack
 ;;
 ;; Author:  Martin Pohlack <mp26@os.inf.tu-dresden.de>
-;; URL:     http://os.inf.tu-dresden.de/~mp26/download/flyspell-textcat.el
+;; URL:     https://github.com/martinp26/flyspell-textcat/blob/master/flyspell-textcat.el
 ;; Version: 0.2
 ;;
 ;; This program is free software; you can redistribute it and/or modify
